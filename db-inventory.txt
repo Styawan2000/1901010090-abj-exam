@@ -1,0 +1,3 @@
+Nama Perangkat : Cisco Router 2811, 	 Lokasi : Gedung A
+Nama Perangkat : Cisco Router 800, 	 Lokasi : Gedung B
+Nama Perangkat : Cisco ASA 5511, 	 Lokasi : Gedung C
